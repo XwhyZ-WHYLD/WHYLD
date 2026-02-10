@@ -104,3 +104,5 @@ WHYLD research is guided by the following principles:
 
 WHYLD research is active and evolving.  
 Repositories and sections vary in maturity and stability.
+
+"designed for critical and high-stakes environments"
