@@ -105,4 +105,13 @@ WHYLD research is guided by the following principles:
 WHYLD research is active and evolving.  
 Repositories and sections vary in maturity and stability.
 
+## Research Identity
+
+| Platform | Link |
+|---|---|
+| Google Scholar | https://scholar.google.com/citations?user=2gZYyYIAAAAJ |
+| ORCID | https://orcid.org/0009-0002-1175-7749 |
+| SSRN | https://papers.ssrn.com/abstract=6567858 |
+| Zenodo | https://zenodo.org |
+
 "designed for critical and high-stakes environments"
