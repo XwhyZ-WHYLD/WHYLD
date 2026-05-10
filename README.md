@@ -113,5 +113,6 @@ Repositories and sections vary in maturity and stability.
 | ORCID | https://orcid.org/0009-0002-1175-7749 |
 | SSRN | https://papers.ssrn.com/abstract=6567858 |
 | Zenodo | https://zenodo.org |
+| WHYTL Program | https://github.com/XwhyZ-WHYLD/WHYLD/blob/main/WHYTL.md |
 
 "designed for critical and high-stakes environments"
