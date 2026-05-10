@@ -1,4 +1,5 @@
 # WHYTL: A Constraint-First Program for Sovereign AI Infrastructure
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20109355.svg)](https://doi.org/10.5281/zenodo.20109355)
 
 **Roshan George Thomas**  
 XWHYZ / WHYLD Research, Bahrain  
