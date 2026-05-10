@@ -113,7 +113,7 @@ Repositories and sections vary in maturity and stability.
 | ORCID | https://orcid.org/0009-0002-1175-7749 |
 | SSRN | https://papers.ssrn.com/abstract=6567858 |
 | Zenodo | https://zenodo.org |
-| WHYTL Program | https://github.com/XwhyZ-WHYLD/WHYLD/blob/main/WHYTL.md |
+| WHYTL Program | https://doi.org/10.5281/zenodo.20109355 |
 
 ## How to Engage With the Research
 
