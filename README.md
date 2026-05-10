@@ -115,4 +115,13 @@ Repositories and sections vary in maturity and stability.
 | Zenodo | https://zenodo.org |
 | WHYTL Program | https://github.com/XwhyZ-WHYLD/WHYLD/blob/main/WHYTL.md |
 
+## How to Engage With the Research
+
+Suggested entry points:
+
+* **All readers:** Start with [WHYTL](https://github.com/XwhyZ-WHYLD/WHYLD/blob/main/WHYTL.md) — the program overview
+* **Policy & Governance Reviewers:** Begin with the ASI Governance Canon
+* **Systems Architects:** Start with the Parallel Intelligence Grid (PIG)
+* **Safety & Risk Evaluation:** Review governance, execution control, and evidence-bound truth components
+
 "designed for critical and high-stakes environments"
