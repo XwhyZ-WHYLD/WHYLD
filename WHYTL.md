@@ -190,6 +190,8 @@ The program is offered as open research. No claim is made to completeness or fin
 
 Thomas, R.G. (2026a). *Sovereign Behavioral Lag and the Sovereign Behavioral Transition Architecture: The UAE as Case Zero.* WHYLD / XWHYZ Research. Zenodo DOI: 10.5281/zenodo.19915318. SSRN Abstract ID: 6680418.
 
+Thomas, R.G. (2026b). *µHALO: Inter-Token Timing Variance as an Early Hallucination Risk Signal.* XWHYZ / WHYLD Research. Zenodo DOI: 10.5281/zenodo.20109617.
+
 Anderson, J.R. et al. (2004). An integrated theory of the mind. *Psychological Review*, 111(4), 1036–1060.
 
 Farquhar, S. et al. (2024). Detecting hallucinations in large language models using semantic consistency. *Nature*, 630, 625–630.
